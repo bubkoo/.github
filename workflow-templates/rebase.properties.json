@@ -1,0 +1,9 @@
+{
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "rebase",
+    "categories": [
+    ],
+    "filePatterns": [
+    ]
+}
